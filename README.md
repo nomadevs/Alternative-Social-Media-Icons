@@ -1,0 +1,2 @@
+# Alternative-Social-Media-Icons
+Just some alternative social media icons I created using [IcoMoon](https://icomoon.io/app/) because FontAwesome doesn't include them. Be aware that not all icons can be used for commercial purposes and the copyright holders retain all rights. So I recommend not using these if you plan on selling things on your website. I'll combine these in to a single CSS file and Font folder at some point but am putting these here if you find them useful.
