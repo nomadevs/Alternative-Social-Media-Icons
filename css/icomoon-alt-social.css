@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/parler.eot?e7afp2');
+  src:  url('../fonts/parler.eot?e7afp2#iefix') format('embedded-opentype'),
+    url('../fonts/parler.ttf?e7afp2') format('truetype'),
+    url('../fonts/parler.woff?e7afp2') format('woff'),
+    url('../fonts/parler.svg?e7afp2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/bitchute.eot?7hhfac');
+  src:  url('../fonts/bitchute.eot?7hhfac#iefix') format('embedded-opentype'),
+    url('../fonts/bitchute.ttf?7hhfac') format('truetype'),
+    url('../fonts/bitchute.woff?7hhfac') format('woff'),
+    url('../fonts/bitchute.svg?7hhfac#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/minds.eot?37tgnk');
+  src:  url('../fonts/minds.eot?37tgnk#iefix') format('embedded-opentype'),
+    url('../fonts/minds.ttf?37tgnk') format('truetype'),
+    url('../fonts/minds.woff?37tgnk') format('woff'),
+    url('../fonts/minds.svg?37tgnk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/gab.eot?issxvl');
+  src:  url('../fonts/gab.eot?issxvl#iefix') format('embedded-opentype'),
+    url('../fonts/gab.ttf?issxvl') format('truetype'),
+    url('../fonts/gab.woff?issxvl') format('woff'),
+    url('../fonts/gab.svg?issxvl#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-parler:before {
+  content: "\e900";
+}
+
+.icon-minds:before {
+  content: "\e901";
+}
+
+.icon-gab:before {
+  content: "\e902";
+}
+
+.icon-bitchute:before {
+  content: "\e903";
+}
