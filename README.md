@@ -10,4 +10,4 @@ Just some alternative social media font icons for Bitchute, Minds, Gab, and Parl
 
 ## Licenses
 
-- Minds logo is licensed under the Creative Commons Attribution-Share Alike 4.0 International. Since my icon uses their artwork it shares the same license they use.
+- Minds logo is licensed under the [Creative Commons Attribution-Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en). Since my icon uses their artwork and changes were made in the process of conversion, it shares the same license they use.
