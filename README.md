@@ -7,3 +7,7 @@ Just some alternative social media font icons for Bitchute, Minds, Gab, and Parl
 ## Example usage:
 
 `<span class="icon icon-parler"></span>`
+
+## Licenses
+
+- Minds logo is licensed under the Creative Commons Attribution-Share Alike 4.0 International. Since my icon uses their artwork it shares the same license they use.
