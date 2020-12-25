@@ -10,4 +10,4 @@ Just some alternative social media font icons for Bitchute, Minds, Gab, and Parl
 
 ## Licenses 
 
-- I'll include some license information soon regarding the authors of the artwork and their websites. So to be on the safe side only use them for non-commercial purposes to promote your social media.
+- I'll include some license information soon regarding the authors of the artwork and their websites. So to be on the safe side only use them for non-commercial purposes to promote your social media. I may end up having to redraw the artwork myself.
